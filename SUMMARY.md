@@ -5,7 +5,7 @@
 * [First chapter](first.md)
 * [Second chapter](second.md)
 * [Third chapter](third.md)
-* [Fourth](four.md)
-* [Fifth](fifth.md)
-* [Sixth](sixth.md)
+* [Fourth chapter](four.md)
+* [Fifth chapter](fifth.md)
+* [Sixth chapter](sixth.md)
 
