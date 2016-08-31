@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Table of Contents](chapter1.md)
-* [First](first.md)
-* [Second](second.md)
-* [Third](third.md)
+* [First chapter](first.md)
+* [Second chapter](second.md)
+* [Third chapter](third.md)
 * [Fourth](four.md)
 * [Fifth](fifth.md)
 * [Sixth](sixth.md)
