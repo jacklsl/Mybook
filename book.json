@@ -1,4 +1,24 @@
 {
+    "plugins": [
+        "fontsettings",
+        "highlight",
+        "exercises",
+        "disqus",
+        "katex",
+        "youtube",
+        "28msec",
+        "abc2svg",
+        "ace",
+        "action",
+        "ad",
+        "adbutler",
+        "add-header",
+        "add-tag-to-parent",
+        "addcssjs",
+        "adsense",
+        "advanced-emoji",
+        "akiratest"
+    ],
     "pluginsConfig": {
         "fontsettings": {
             "theme": "sepia",
