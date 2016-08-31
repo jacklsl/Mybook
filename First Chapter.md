@@ -23,7 +23,7 @@
 | 《[荣誉勋章](http://baike.baidu.com/view/45661.htm)》（medal of honor） | 美国EA DICE | 2010 |
 | 《[奇异人生](http://baike.baidu.com/subview/14147420/16251672.htm)》（Life is Strange） | 美国 Dontnod Entertainment | 2015 |
 
-                                                           上述表1-1所示，这些有名的游戏均是虚幻引擎开发的。
+                                                       上述表1-1所示，这些有名的游戏均是虚幻引擎开发的。
 
 目前的版本是虚幻4引擎，这是一款跨平台的游戏引擎，使用蓝图和C++两种模式进行游戏的开发。虚幻4引擎可以再Window和Mac等主流操作系统上进行运行，进而开发在不同设备平台运行的游戏。
 
